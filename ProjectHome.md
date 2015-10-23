@@ -1,0 +1,1 @@
+This program connects to the MRC Prodigy Advanced DCC system using the MRC wired or wireless interface.  This Visual Basic Program monitors the DCC command bus allowing you to decode the handheld controller commands into DCC bus protocol.  Some of these protocol commands have already been programmed into a virtual handheld controller for train and station decoder control.
